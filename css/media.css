@@ -1,0 +1,38 @@
+@media  (max-width: 768px) {
+    .container {
+        max-width: 100%;
+    }
+    
+}
+
+@media (max-width: 480px) {
+    .container {
+        max-width: 100%;
+    }
+
+    .row {
+        flex-direction: column;
+        row-gap: 50px;
+    }
+
+    .lessons .col {
+        width: 100%;
+    }
+
+    .steps .col {
+        width: 100%;
+    }
+
+    .why-us .col-left {
+        width: 100%;
+    }
+
+    .why-us .col-right {
+        width: 100%;
+    }
+
+
+
+
+
+}    
