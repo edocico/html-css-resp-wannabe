@@ -22,6 +22,10 @@
         row-gap: 50px;
     }
 
+    .lessons {
+        margin-bottom: 3rem;
+    }
+
     .steps {
         margin: 0 0;
     }
